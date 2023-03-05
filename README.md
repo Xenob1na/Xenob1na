@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi, my name is Danil👾, I am a beginner Fullstack developer😎. I started my way into IT in 2020.</div>  
+### <div align="center">Hi, my name is Danil👾, I am a beginner Fullstack developer😎. I started my way into IT in 2020👾.</div>  
   
 
 - 🔭 I am currently studying Django in depth  
