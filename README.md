@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">Hi, my name is Danil👾, I am a beginner Fullstack developer😎. I started my way into IT in 2020.</div>  
+### <div align="center">Hi, my name is Danil👾, I am a beginner Frontend  developer😎. I started my way into IT in 2020.</div>  
   
 
-- 🔭 I am currently studying Django in depth  
+- 🔭 I am currently studying Vue.js in depth  
   
 
-- ❓ My PDV technology stack. Postgresql, Django and Vue.js  
+- ❓ My tech stack is Vue.js and Scss  
   
 
 - ⚡ In addition to web development, I like to develop site layouts [Behance](https://www.behance.net/gromovdanil)  
@@ -39,8 +39,7 @@
 ### Backend  
 <div align="center">  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
