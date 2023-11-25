@@ -1,15 +1,15 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://media.tenor.com/cseiGcBcQ_AAAAAd/cat-chews-and-looks-at-the-camera-cat-eats-and-looks-at-the-camera.gif)" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">Hi, my name is Danil👾, I am a beginner Frontend  developer😎. I started my way into IT in 2020.</div>  
   
 
-- 🔭 I am currently studying Vue.js in depth  
+- 🔭 Vue.js My life and the meaning of my existence
   
 
-- ❓ My tech stack is Vue.js and Scss  
+- ❓ My tech stack is Vue.js(Nuxt.js), JS(TS), CSS(SCSS), Tailwind.css, Node(Express) 
   
 
 - ⚡ In addition to web development, I like to develop site layouts [Behance](https://www.behance.net/gromovdanil)  
