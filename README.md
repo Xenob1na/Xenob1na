@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/cseiGcBcQ_AAAAAd/cat-chews-and-looks-at-the-camera-cat-eats-and-looks-at-the-camera.gif" align="center" style="width: 100%" />
+<img src="https://media.tenor.com/2djLbHykpkEAAAAd/cat-smirk.gif" align="center" style="width: 100%" />
 </div>  
   
 
